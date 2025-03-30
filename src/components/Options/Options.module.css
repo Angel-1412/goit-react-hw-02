@@ -1,0 +1,8 @@
+btns {
+  display: flex;
+  gap: 20px;
+}
+
+btn:hover {
+  background-color: burlywood;
+}
