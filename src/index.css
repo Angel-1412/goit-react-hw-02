@@ -30,6 +30,7 @@ button {
   font-family: inherit;
   cursor: pointer;
   transition: border-color 0.25s;
+  margin-right: 15px;
 }
 
 @media (prefers-color-scheme: light) {
